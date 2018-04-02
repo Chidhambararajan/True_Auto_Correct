@@ -1,0 +1,7 @@
+{
+  "venv": "", 
+  "project-type": "NINJA-Plugin-Project", 
+  "name": "True_Auto_Correct", 
+  "license": "GNU General Public License v3", 
+  "description": "An advanced autocomplete plugin inspired from kai plugin for Ninja-IDe"
+}
