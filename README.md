@@ -11,7 +11,7 @@ Simple autocomplete plugin that would suggest possible word completions from:
 
 
 Right now, completions are case sensitive and are listed for 3 or more characters words (both should be configurable settings in the near future).
--------
+-------------------------------------------------------------------------------------------------------------------------------
  * Ninja-IDE: http://www.ninja-ide.org/
 
 Credits:
